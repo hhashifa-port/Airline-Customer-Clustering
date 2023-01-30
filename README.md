@@ -1,11 +1,11 @@
-# Segmentation: Airline Customer Value Analysis
-This project will analyze customers according to their characteristics and perform **customers segmentation** based on existing data.
+# Clustering: Airline Customer Value Analysis
+This project will analyze customers according to their characteristics and perform **customers clustering** based on existing data.
 
 ### Dataset description
 The dataset used in this project is Airline Customer Value Analysis Case, which consists of 62987 rows (each row represents a customer) and 23 columns (each column represents the characteristics of each customer). This dataset describes the characteristics of a customer on a flight, such as fare revenue for each customers, votes prices, the total distance (km) of flights that customer have been carried out, the distance between the last flight and the last booked flight,  tier of the Frequent Flyer Program, etcetera.
 
 ### Goal
-Customer segmentation and its interpretation will be analyzed  based on the selected characteristics. To achieve this, do:
+Customer clustering and its interpretation will be analyzed  based on the selected characteristics. To achieve this, do:
 - Exploratory data analysis, such as handling missing values, duplicate data, and gaining insight from the data.
 - Data pre-processing (feature selection, feature transformation, and feature engineering).
 - Unsupervised machine learning modeling.
